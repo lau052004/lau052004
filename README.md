@@ -9,10 +9,10 @@
 ```javascript
 const Laura = {
   pronombres: "she" | "her",
-  código: [C++, Java, HTML, CSS, Python, SQL],
+  código: [C, C++, Java, HTML, CSS, Python, SQL, HTML, CSS, JavaScript ],
   
   Intereses: {
-                  Uno: "Desarrollo de Software",
+                  Uno: "Desarrollo de Software (web & móvil)",
                   Dos: "Inteligencia Artificial",
                   Tres: "Big Data"
             },
@@ -20,7 +20,7 @@ const Laura = {
 ```
 
 - 🏢 Actualmente estoy cursando la carrera de Ingeniería de Sistemas en la **Universidad Javeriana**
-- ⚙️ Diariamente utilizo: `.cpp`, `.html`, `.css`, `.png`, `.json`,`.sql`
+- ⚙️ Diariamente utilizo: `.cpp`, `.html`, `.css`, `.png`, `.json`,`.sql`, `.js`
 - 🌍 Soy amante del cuidado del: **Medio Ambiente**
 - 💅 Fan del movimiento: **Woman in Tech**
 - 🌱 Estoy aprendiendo y estudiando sobre: **Estructuras de datos, Sistemas de Información, Desarrollo de Software, Gestión de proyectos en TI**
