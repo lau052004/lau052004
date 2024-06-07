@@ -1,5 +1,5 @@
 ### Hi, I'm Laura 👋💻
-![Laura Ovalle](https://github.com/lau052004/lau052004/issues/2#issue-2339455415)
+![Laura Ovalle](https://github.com/lau052004/lau052004/assets/124191750/7e405c76-f901-460b-9c42-cf0594fee960)
 
 ---
 
